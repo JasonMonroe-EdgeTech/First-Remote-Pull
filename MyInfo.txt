@@ -1,2 +1,3 @@
 Name: Jason Monroe
 Fact:  I play the trumpet
+Favorite Color: Black and Silver
